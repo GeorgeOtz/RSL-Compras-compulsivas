@@ -1,6 +1,6 @@
-# Revisión Sistemática de Literatura: Compras Compulsivas y Temporadas de Descuentos
+## Revisión Sistemática de Literatura: Compras Compulsivas y Temporadas de Descuentos
 
-## Descripción del proyecto
+#### Descripción del proyecto
 
 Este proyecto desarrolla una **Revisión Sistemática de Literatura (RSL)** enfocada en analizar la relación entre las temporadas de descuentos, las promociones comerciales y las fechas especiales con las compras compulsivas e impulsivas de los consumidores.
 
